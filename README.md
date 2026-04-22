@@ -32,7 +32,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 * Introduced a modular architecture (pages, modules, components, UI), accelerating development and reducing the number of integration bugs.
 * Achieved 85% unit test coverage (Jest + React Testing Library) for critical utilities, significantly reducing the number of customer-reported bugs.
 
-**Technologies:** Next.js, React, TypeScript, Redux Thunk, Material UI, SCSS
+**Technologies:** Next.js, React, TypeScript, Redux Thunk, Material UI, SCSS.
 
 [MATERIAL.ONE](https://en.material.one/): Fullstack developer 11/2020 – 03/2022, 1.3 years
 
@@ -42,7 +42,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 * Optimized editable tables with 1000+ rows using react-table. Reduced user input errors via dynamic validation.
 * Reduced procurement report execution time from 8 to 1.2 seconds by introducing PostgreSQL indexes.
 
-**Technologies:** React, TypeScript, Redux Thunk, Styled Components; Java, Spring Boot, JPA/Hibernate, PostgreSQL
+**Technologies:** React, TypeScript, Redux Thunk, Styled Components; Java, Spring Boot, JPA/Hibernate, PostgreSQL.
 
 ## Education
 
