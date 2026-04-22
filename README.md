@@ -2,17 +2,17 @@
 
 [LinkedIn](https://www.linkedin.com/in/maksimkirichenko/) &nbsp;&nbsp;&nbsp;[Github](https://github.com/Maximal-ein) &nbsp;&nbsp;&nbsp;maksim.kirichenko.work@gmail.com &nbsp;&nbsp;&nbsp;[Telegram: @maximal\_ein](https://t.me/Maximal_ein)
 
-## ABOUT
+## About
 Frontend developer with **5+ years** of commercial experience, working in teams from 4 to 22 members, both remotely and on-site. Built the full development cycle: from gathering product owner requirements to establishing a fully automated release process with high test coverage, analytics, and CI/CD. Expert in scalable unidirectional data flow architectures, emphasizing pure functions, controlled side effects, and business logic testability decoupled from the UI.
 
 In addition to core frontend knowledge, fullstack background provides a strong understanding of server-side needs and enables smooth API integration. Regularly integrate AI tools into the development workflow to enhance productivity and improve code quality. Enjoy mentoring teammates, solving difficult problems, and delivering results whether working autonomously or closely with a team.
 
-## SKILLS
+## Skills
 
 **Main:** JavaScript, TypeScript, HTML, CSS, React, Redux (Redux Toolkit, Redux Thunk), FSD, Webpack Module Federation, Webpack, Vite, Axios, Jest, React testing library, GitLab CI, Scss, Sass, REST API, WebSockets, Next.js, GraphQL, Material UI, Styled Components, Bootstrap.  
 **Other:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, Git, web3, StoryBook.
 
-## EXPERIENCE
+## Experience
 
 [THINKPROJECT](https://www.thinkproject.com/): 05/2022 – PRESENT, 4+ years
 
@@ -44,7 +44,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 
 **Technologies:** React, TypeScript, Redux Thunk, Styled Components; Java, Spring Boot, JPA/Hibernate, PostgreSQL
 
-**EDUCATION**
+## Education
 
 POLYTECHNIC UNIVERSITY, Moscow — BACHELOR, 2017 - 2021
 
