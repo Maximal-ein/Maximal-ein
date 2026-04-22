@@ -34,7 +34,7 @@ In addition to core frontend knowledge, fullstack background provides a strong u
 
 **Technologies:** Next.js, React, TypeScript, Redux Thunk, Material UI, SCSS
 
-[MATERIAL.ONE](https://material.one/): Fullstack developer 11/2020 – 03/2022, 1.3 years
+[MATERIAL.ONE](https://en.material.one/): Fullstack developer 11/2020 – 03/2022, 1.3 years
 
 * Developed a customer dashboard (React) and a corresponding REST API (Java + Spring Boot), achieving p95 latency < 300 ms.
 * Eliminated cascading re-renders and visual flicker (CLS → 0) on pages with 10+ concurrent API calls by implementing batched state updates.
